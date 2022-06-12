@@ -3,7 +3,7 @@
 #### Work
 
 - I’m currently working on supporting remote debugging under a process-level virtualization system.
-- Previously I worked on supporting sanitizers (`ASan`, `TSan`, `MSan`, and `UBSan`) and `QEMU` for arm toolchain. Here are my open source contributions:
+- Previously I worked on supporting sanitizers (`ASan`, `HWASan`, `TSan`, `MSan`, and `UBSan`), profile-guided optimization (`PGO`), and `QEMU` for arm toolchain. Here are my open source contributions:
   - LLVM
     - [Update macro for OFF_T so that sanitizer works on AARCH64](https://github.com/llvm/llvm-project/commit/a5a6fd3f95a9ecc3ef8732192ce0fd7749135311)
     - [Fix memory leak in `GetGDBServerRegisterInfoXMLAndProcess`](https://github.com/llvm/llvm-project/commit/1267506ea54a62e0c728215c033b256ce856db30)
