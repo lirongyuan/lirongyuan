@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on supporting debugging under a process-level virtualization system.
-- 🌱 I’m currently learning the design decisions of specific operating systems, including Unix 6th Edition, FreeBSD, Mac OS X, and Linux.
-- 🥾 I like to go on hikes and explore my surroundings.
+- 🖥️ I’m currently working on supporting debugging under a process-level virtualization system.
+- 📚 I’m currently learning the design decisions of specific operating systems, including Unix 6th Edition, FreeBSD, Mac OS X, and Linux.
+- ⛰️ I like to go on hikes and explore my surroundings.
 - 🗣️ I am a lead in a toastmasters club @ google and attend weekly meetings.
 - 🎥 I like to watch movies and write reviews.
-- 📖 I love reading books! If you have any book recommendations, I'd be happy to hear from you.
+- 📔 I love reading books! If you have any book recommendations, I'd be happy to hear from you.
 
 <!--
 - 👯 I’m looking to collaborate on ...
