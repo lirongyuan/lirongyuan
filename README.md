@@ -19,7 +19,7 @@
 
 - 📚 I’m currently learning the design decisions of specific operating systems.
 - ⛰️ I like to go on hikes and explore my surroundings.
-- 🗣️ I am a lead in a toastmasters club @ google and attend weekly meetings.
+- 🗣️ I am a club office at a local toastmasters club and attend weekly meetings.
 - 🎥 I like to watch movies and write reviews.
 
 <!--
