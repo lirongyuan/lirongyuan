@@ -14,6 +14,12 @@
   - GLIBC
     - [locale: align `_nl_C_LC_CTYPE_class` and `_nl_C_LC_CTYPE_class32` arrays to `uint16_t` and `uint32_t` respectively](https://patchwork.sourceware.org/project/glibc/patch/20210401193723.1224640-1-yuanzi@google.com/)
 
+#### Research
+
+[The probability that a polynomial with integer coefficients has all real roots](paper/probability_that_a_random_polynomial_with_integer_coefficients_has_all_real_roots.pdf)
+- It is natural to use polynomials with integer coefficients for examples and exercises in an algebra course. However, not all such polynomials have all real roots. We ask a question: what is the probability that a random polynomial with integer coefficients has all real roots? We use some tools from probability theory and complex analysis to reduce the problem to studying the roots of random polynomials with real-valued coefficients instead. We discover that the probability that a polynomial of degree n with integer coefficients has real roots is equal to the probability that a polynomial of degree n-1 over real coefficients has real roots. In certain cases this allows us to use calculus to obtain an exact answer.
+- Presented at an Indiana MAA Section meeting.
+- Presented at the Rose-Hulman Undergraduate Math Conference (best presentation award finalist).
 
 #### Hobbies
 
