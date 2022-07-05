@@ -21,13 +21,6 @@
 - Presented at an Indiana MAA Section meeting.
 - Presented at the Rose-Hulman Undergraduate Math Conference (best presentation award finalist).
 
-#### Hobbies
-
-- 📚 I’m currently learning the design decisions of specific operating systems.
-- ⛰️ I like to go on hikes and explore my surroundings.
-- 🗣️ I am a club officer at a local toastmasters club and attend weekly meetings.
-- 🎥 I like to watch movies and write reviews.
-
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -35,4 +28,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 📫 How to reach me: ...
+
+#### Hobbies
+- 📚 I’m currently learning the design decisions of specific operating systems.
+- ⛰️ I like to go on hikes and explore my surroundings.
+- 🗣️ I am a club officer at a local toastmasters club and attend weekly meetings.
+- 🎥 I like to watch movies and write reviews.
 -->
